@@ -8,8 +8,11 @@ The main goal of this repository is not just to solve problems, but to understan
 
 * Strengthen my DSA fundamentals
 * Improve problem-solving and logical thinking
-* Learn and apply common algorithmic patterns
+* Learn and apply common algorithmic
+ patterns
 * Practice writing clean and efficient C++ code
+
+DSA is hard at start but gets complicated at the end 
 * Analyze **time and space complexity**
 * Prepare for technical interviews and coding rounds
 
